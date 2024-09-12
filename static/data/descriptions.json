@@ -1,0 +1,37 @@
+[
+    {
+        "language": "Physical Touch",
+        "description": "The love language of physical touch indicates that you enjoy physical interactions as the primary way to receive and give love.",
+        "howToCommunicate": "Non-verbal use of body language and touch to show love.",
+        "actionsToTake": "Hugs, kisses, cuddling, holding hands, gentle touches during conversations.",
+        "thingsToAvoid": "Physical neglect, lack of affection, or any form of physical abuse."
+    },
+    {
+        "language": "Words of Affirmation",
+        "description": "For someone whose love language is words of affirmation, verbal expressions of love and appreciation are crucial.",
+        "howToCommunicate": "Use verbal expressions to affirm love, admiration, and care.",
+        "actionsToTake": "Give compliments, express gratitude, and say 'I love you' often.",
+        "thingsToAvoid": "Insults, harsh words, or lack of acknowledgment."
+    },
+    {
+        "language": "Quality Time",
+        "description": "Quality time means undivided attention and spending meaningful time together to connect emotionally.",
+        "howToCommunicate": "Give your partner your full attention, engage in conversations, and spend meaningful time together.",
+        "actionsToTake": "Plan date nights, take walks, have deep conversations without distractions.",
+        "thingsToAvoid": "Distractions when spending time together, being preoccupied, or canceling plans frequently."
+    },
+    {
+        "language": "Acts of Service",
+        "description": "Acts of service is about actions that help ease the responsibilities and burdens of the partner.",
+        "howToCommunicate": "Show love by doing helpful things for your partner without them needing to ask.",
+        "actionsToTake": "Help with chores, run errands, do small tasks that make your partner’s life easier.",
+        "thingsToAvoid": "Broken promises, not following through on tasks, or adding to your partner's burden."
+    },
+    {
+        "language": "Receiving Gifts",
+        "description": "Receiving gifts means showing love through thoughtful presents that reflect how much you care.",
+        "howToCommunicate": "Give thoughtful gifts and gestures that show you are thinking of them.",
+        "actionsToTake": "Surprise your partner with meaningful gifts or small tokens of appreciation.",
+        "thingsToAvoid": "Forgetting special occasions, giving thoughtless or impersonal gifts."
+    }
+]

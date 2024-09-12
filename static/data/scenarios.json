@@ -1,0 +1,202 @@
+[
+    {
+        "id": "1",
+        "Scenario": "my partner gives me a hug",
+        "Language": "Physical Touch"
+    },
+    {
+        "id": "2",
+        "Scenario": "my partner writes me a note",
+        "Language": "Words of Affirmation"
+    },
+    {
+        "id": "3",
+        "Scenario": "my partner surprises me with a thoughtful gift",
+        "Language": "Receiving Gifts"
+    },
+    {
+        "id": "4",
+        "Scenario": "my partner spends Quality Time with me without distractions",
+        "Language": "Quality Time"
+    },
+    {
+        "id": "5",
+        "Scenario": "my partner helps me with tasks around the house",
+        "Language": "Acts of Service"
+    },
+    {
+        "id": "6",
+        "Scenario": "my partner holds my hand while walking",
+        "Language": "Physical Touch"
+    },
+    {
+        "id": "7",
+        "Scenario": "my partner compliments me on something I did",
+        "Language": "Words of Affirmation"
+    },
+    {
+        "id": "8",
+        "Scenario": "my partner brings me a special gift just because",
+        "Language": "Receiving Gifts"
+    },
+    {
+        "id": "9",
+        "Scenario": "my partner plans a day for us to spend time together",
+        "Language": "Quality Time"
+    },
+    {
+        "id": "10",
+        "Scenario": "my partner cooks me dinner without asking",
+        "Language": "Acts of Service"
+    },
+    {
+        "id": "11",
+        "Scenario": "my partner kisses me on the forehead",
+        "Language": "Physical Touch"
+    },
+    {
+        "id": "12",
+        "Scenario": "my partner leaves me a kind voicemail",
+        "Language": "Words of Affirmation"
+    },
+    {
+        "id": "13",
+        "Scenario": "my partner buys me something I\u2019ve been wanting",
+        "Language": "Receiving Gifts"
+    },
+    {
+        "id": "14",
+        "Scenario": "my partner makes time to have a meaningful conversation with me",
+        "Language": "Quality Time"
+    },
+    {
+        "id": "15",
+        "Scenario": "my partner takes care of an errand for me",
+        "Language": "Acts of Service"
+    },
+    {
+        "id": "16",
+        "Scenario": "my partner touches my arm affectionately",
+        "Language": "Physical Touch"
+    },
+    {
+        "id": "17",
+        "Scenario": "my partner sends me an encouraging text",
+        "Language": "Words of Affirmation"
+    },
+    {
+        "id": "18",
+        "Scenario": "my partner surprises me with my favorite snack",
+        "Language": "Receiving Gifts"
+    },
+    {
+        "id": "19",
+        "Scenario": "my partner and I watch a movie together without interruptions",
+        "Language": "Quality Time"
+    },
+    {
+        "id": "20",
+        "Scenario": "my partner organizes my workspace to help me",
+        "Language": "Acts of Service"
+    },
+    {
+        "id": "21",
+        "Scenario": "my partner gives me a back rub after a long day",
+        "Language": "Physical Touch"
+    },
+    {
+        "id": "22",
+        "Scenario": "my partner praises me for my hard work",
+        "Language": "Words of Affirmation"
+    },
+    {
+        "id": "23",
+        "Scenario": "my partner buys me flowers just because",
+        "Language": "Receiving Gifts"
+    },
+    {
+        "id": "24",
+        "Scenario": "my partner plans a weekend getaway for us",
+        "Language": "Quality Time"
+    },
+    {
+        "id": "25",
+        "Scenario": "my partner washes the dishes after dinner",
+        "Language": "Acts of Service"
+    },
+    {
+        "id": "26",
+        "Scenario": "my partner kisses me on the cheek",
+        "Language": "Physical Touch"
+    },
+    {
+        "id": "27",
+        "Scenario": "my partner sends me a heartfelt card",
+        "Language": "Words of Affirmation"
+    },
+    {
+        "id": "28",
+        "Scenario": "my partner surprises me with concert tickets",
+        "Language": "Receiving Gifts"
+    },
+    {
+        "id": "29",
+        "Scenario": "my partner and I take a walk together",
+        "Language": "Quality Time"
+    },
+    {
+        "id": "30",
+        "Scenario": "my partner vacuums the house for me",
+        "Language": "Acts of Service"
+    },
+    {
+        "id": "31",
+        "Scenario": "my partner gives me a playful nudge",
+        "Language": "Physical Touch"
+    },
+    {
+        "id": "32",
+        "Scenario": "my partner tells me they\u2019re proud of me",
+        "Language": "Words of Affirmation"
+    },
+    {
+        "id": "33",
+        "Scenario": "my partner gives me a personalized gift",
+        "Language": "Receiving Gifts"
+    },
+    {
+        "id": "34",
+        "Scenario": "my partner schedules a date night just for us",
+        "Language": "Quality Time"
+    },
+    {
+        "id": "35",
+        "Scenario": "my partner runs an errand for me when I'm busy",
+        "Language": "Acts of Service"
+    },
+    {
+        "id": "36",
+        "Scenario": "my partner hugs me from behind unexpectedly",
+        "Language": "Physical Touch"
+    },
+    {
+        "id": "37",
+        "Scenario": "my partner compliments me in front of others",
+        "Language": "Words of Affirmation"
+    },
+    {
+        "id": "38",
+        "Scenario": "my partner gives me something they made themselves",
+        "Language": "Receiving Gifts"
+    },
+    {
+        "id": "39",
+        "Scenario": "my partner surprises me with a picnic",
+        "Language": "Quality Time"
+    },
+    {
+        "id": "40",
+        "Scenario": "my partner fixes something in the house without being asked",
+        "Language": "Acts of Service"
+    }
+]
