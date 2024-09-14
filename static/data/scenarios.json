@@ -16,7 +16,7 @@
     },
     {
         "id": "4",
-        "Scenario": "my partner spends Quality Time with me without distractions",
+        "Scenario": "my partner spends quality time with me without distractions",
         "Language": "Quality Time"
     },
     {
@@ -197,6 +197,56 @@
     {
         "id": "40",
         "Scenario": "my partner fixes something in the house without being asked",
+        "Language": "Acts of Service"
+    },
+    {
+        "id": "41",
+        "Scenario": "my partner plays with my hair while we relax",
+        "Language": "Physical Touch"
+    },
+    {
+        "id": "42",
+        "Scenario": "my partner leaves me a sticky note with a sweet message",
+        "Language": "Words of Affirmation"
+    },
+    {
+        "id": "43",
+        "Scenario": "my partner surprises me with a thoughtful subscription to something I love",
+        "Language": "Receiving Gifts"
+    },
+    {
+        "id": "44",
+        "Scenario": "my partner sets aside a whole day for us to spend together",
+        "Language": "Quality Time"
+    },
+    {
+        "id": "45",
+        "Scenario": "my partner folds the laundry for me without asking",
+        "Language": "Acts of Service"
+    },
+    {
+        "id": "46",
+        "Scenario": "my partner gives me a gentle kiss on the hand",
+        "Language": "Physical Touch"
+    },
+    {
+        "id": "47",
+        "Scenario": "my partner texts me just to say how much they appreciate me",
+        "Language": "Words of Affirmation"
+    },
+    {
+        "id": "48",
+        "Scenario": "my partner surprises me with a gift related to my hobby",
+        "Language": "Receiving Gifts"
+    },
+    {
+        "id": "49",
+        "Scenario": "my partner sets up a cozy night in just for us",
+        "Language": "Quality Time"
+    },
+    {
+        "id": "50",
+        "Scenario": "my partner takes my car for an oil change so I don’t have to",
         "Language": "Acts of Service"
     }
 ]
