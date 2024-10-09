@@ -202,7 +202,6 @@
   {:else}
     <p class="text-center">Loading...</p>
   {/if}
-  <p class="footer-text">by Lfz</p>
 </main>
 
 <style>
